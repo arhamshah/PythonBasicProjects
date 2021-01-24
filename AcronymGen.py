@@ -2,7 +2,7 @@ userInput = input("Enter the Text to generate Acronym:-")
 inputList = userInput.split()
 accr = ""
 for i in inputList:
-    accr += i[0].upper()+"."
+    accr += i[0].upper()
 
 print(accr)
 
