@@ -22,5 +22,5 @@ else:
     print("Enter Valid Input")
 
 # Here we first created a function convertTemperature(), where two arguments are the temperature and unit to which it is to be converted
-# Later we ask the user about unit they wanted temperature to be and store it in userInput. userInputTemperature variable has the temperature given by the user
+# Later we ask the user about unit they wanted and store it in userInput. Temperature given by user is stored in userInputTemperature
 # We call the function convertTemperature() and round the result to 2 decimal places
